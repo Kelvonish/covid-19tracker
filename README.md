@@ -11,12 +11,12 @@ This project is a starting point for a Flutter application.
  Screenshots of the UI:
  
  <p align="center">
-  <img src="assets/screen1.jpg" width="250" title="screenshot 1" height="400">
-  <img src="assets/screen2.jpg" width="250" title="screenshot 2" height="400">
+  <img src="assets/screen1.jpg" width="250"  height="400">
+  <img src="assets/screen2.jpg" width="250"  height="400">
 </p>
 <p align="center">
-  <img src="assets/screen1.jpg" width="250" title="screenshot 3" height="400">
-  <img src="assets/screen2.jpg" width="250" title="screenshot 4" height="400">
+  <img src="assets/screen3.jpg" width="250"  height="400">
+  <img src="assets/screen4.jpg" width="250"  height="400">
 </p>
 
 
